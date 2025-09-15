@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 //Step 1 - Task 1
-import {urlConfig} from '../../config';
+import {urlConfig} from '../../config.JS';
 
 //Step 1 - Task 2
 import { useAppContext } from '../../context/AuthContext.js';
